@@ -21,6 +21,7 @@ https://dortania.github.io/OpenCanopy-Gallery/blackosx.html#themes
 
 
 This OC version tested on macOS Sonoma 14.7.6 (23H527). **Try at your own risk.**
+Updated to macOS Tahoe 26.5.
 
 
 <img width="1680" height="945" alt="Ảnh màn hình 2025-07-20 lúc 22 51 02" src="https://github.com/user-attachments/assets/147e8f78-b85d-4b9a-91ed-9be2a10a5a2b" />
