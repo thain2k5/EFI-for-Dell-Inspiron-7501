@@ -21,6 +21,7 @@ https://dortania.github.io/OpenCanopy-Gallery/blackosx.html#themes
 
 
 This OC version tested on macOS Sonoma 14.7.6 (23H527). **Try at your own risk.**
+
 Updated to macOS Tahoe 26.5.
 
 
